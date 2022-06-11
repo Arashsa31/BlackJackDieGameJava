@@ -6,9 +6,6 @@ import java.util.Scanner;
  */
 public class BlackJackGameDemo {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		//variables
